@@ -1,1 +1,2 @@
-# Atividades Andrade
+# Atividades do V7
+curso senai informatica!
